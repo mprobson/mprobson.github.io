@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "CSC 352 Parallel Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023-fall-teaching-2
+venue: "Smith College, Computer Science"
+date: 2023-09-07
+location: "Northampton, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Theoretical and practical models of parallel computing and their appropriate
+application; Flynn’s taxonomy, including shared memory (e.g. OpenMP),
+distributed (e.g. MPI), and GPU (e.g. CUDA) programming. Design of various
+parallel machines and architectures. Measures of parallel performance including
+speedup and scalability.
