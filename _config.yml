@@ -88,6 +88,7 @@ author:
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s0IWIykAAAAJ&hl=en"
   email            :
+  dblp             :  https://dblp.org/pid/136/7977.html
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,6 +109,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  semanticscholar  : https://www.semanticscholar.org/author/Michael-P.-Robson/2059215926
   tumblr           :
   twitter          : "mprobson" # example: "replacethistwitterhandle"
   vine             :
