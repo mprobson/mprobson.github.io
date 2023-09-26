@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Michael P. Robson is an Assistant Professor in the Computer Science department.
+Michael P. Robson is an Assistant Professor in the Computer Science department
+at Smith College.
 His research is focused on parallelizing, scaling, and accelerating scientific
 and other research applications from laptops to the largest supercomputers on
 the planet. Professor Robson is interested in next generation platforms for
