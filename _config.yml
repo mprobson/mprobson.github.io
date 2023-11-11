@@ -87,7 +87,7 @@ author:
   employer         : "Smith College"
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s0IWIykAAAAJ&hl=en"
-  email            :
+  email            : "mrobson@smith.edu"
   dblp             :  "136/7977"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
