@@ -17,5 +17,5 @@ upcoming homework or exam.
 
 Office Hours:
 - 11:00 - 12:00 PM ET Tuesdays (262) & Thursdays (231)
-- 3:00 - 4:00 PM ET Tuesdays (231) & Thursdays (352)
+- 3:00 - 4:00 PM ET Tuesdays (231) & Thursdays (262)
 - By appointment via email, Slack, or this [link](https://calendar.app.google/tui32ZrH4zjD4T49A)
