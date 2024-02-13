@@ -16,6 +16,7 @@ students in the listed course during that hour, especially in the case of an
 upcoming homework or exam.
 
 Office Hours:
+- 10:15 - 11:15 AM ET Mondays (all)
 - 11:00 - 12:00 PM ET Tuesdays (262) & Thursdays (231)
 - 3:00 - 4:00 PM ET Tuesdays (231) & Thursdays (262)
 - By appointment via email, Slack, or this [link](https://calendar.app.google/tui32ZrH4zjD4T49A)
