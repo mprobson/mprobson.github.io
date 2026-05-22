@@ -1,7 +1,7 @@
 ---
 title: "An Open-Publishing Response to the COVID-19 Infodemic"
 collection: publications
-permalink: /publication/2021-09-01-manubot-infodemic-number-3
+permalink: /publication/2021-09-01-manubot-infodemic-number-10
 excerpt: 'Our project illustrates the power of open publishing to organize both
 technical and non-technical scientists to aggregate and disseminate information
 in response to an evolving crisis.'
