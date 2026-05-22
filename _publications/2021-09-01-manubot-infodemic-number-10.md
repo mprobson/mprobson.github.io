@@ -20,7 +20,6 @@ response to an evolving crisis.
 
 [Download paper here](https://ceur-ws.org/Vol-2976/paper-2.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 Recommended citation: Halie M. Rando, Simina M. Boca, Lucy D’Agostino McGowan,
 Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez,
 COVID-19 Review Consortium, Casey S. Greene, Anthony Gitter. “An
