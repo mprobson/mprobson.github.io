@@ -24,4 +24,4 @@ Recommended citation: Halie M. Rando, Simina M. Boca, Lucy D’Agostino McGowan,
 Daniel S. Himmelstein, Michael P. Robson, Vincent Rubinetti, Ryan Velazquez,
 COVID-19 Review Consortium, Casey S. Greene, Anthony Gitter. “An
 Open-Publishing Response to the COVID-19 Infodemic.” Digital Infrastructures
-for Scholarly Content Objects.  Cham- paign, IL, September 2021.
+for Scholarly Content Objects.  Champaign, IL, September 2021.
