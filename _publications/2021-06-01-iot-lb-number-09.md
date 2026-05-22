@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Load Shar- ing in Memory Constrained Devices: A Survey"
+title: "Dynamic Load Sharing in Memory Constrained Devices: A Survey"
 collection: publications
 permalink: /publication/2021-06-01-iot-lb-number-09
 excerpt: 'The goal of this paper is to provide a review of recent work on load
